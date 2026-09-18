@@ -25,6 +25,13 @@ body {
     border-bottom: 1px solid #e5e1da;
 }
 
+.brand-logo {
+    display: block;
+    width: 42px;
+    height: 30px;
+    object-fit: contain;
+}
+
 .menu-btn {
     position: absolute;
     left: 20px;
